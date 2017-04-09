@@ -9,9 +9,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * @author shicheng.zhang
- * @date 16-11-20
- * @time 下午8:26
- * @Description:
+ * @since 16-11-20 下午8:26
  */
 public class CookieUtils {
 

@@ -18,9 +18,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * @author shicheng.zhang
- * @date 16-11-20
- * @time 下午8:25
- * @Description:
+ * @since 16-11-20 下午8:25
  */
 public abstract class AbstractValidate implements Validate {
 

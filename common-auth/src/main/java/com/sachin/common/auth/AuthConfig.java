@@ -4,9 +4,7 @@ import java.util.List;
 
 /**
  * @author shicheng.zhang
- * @date 16-11-20
- * @time 下午8:16
- * @Description:
+ * @since 16-11-20 下午8:16
  */
 public class AuthConfig {
 

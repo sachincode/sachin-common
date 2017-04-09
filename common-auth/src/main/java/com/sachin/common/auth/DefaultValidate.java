@@ -8,9 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * @author shicheng.zhang
- * @date 16-11-20
- * @time 下午8:34
- * @Description:
+ * @since 16-11-20 下午8:34
  */
 public class DefaultValidate extends AbstractValidate {
 

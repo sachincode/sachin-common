@@ -4,9 +4,7 @@ import java.util.Date;
 
 /**
  * @author shicheng.zhang
- * @date 16-11-20
- * @time 下午8:24
- * @Description:
+ * @since  16-11-20 下午8:23
  */
 public class User {
 

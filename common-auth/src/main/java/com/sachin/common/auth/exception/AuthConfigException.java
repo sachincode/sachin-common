@@ -2,9 +2,7 @@ package com.sachin.common.auth.exception;
 
 /**
  * @author shicheng.zhang
- * @date 16-11-20
- * @time 下午8:32
- * @Description:
+ * @since 16-11-20 下午8:32
  */
 public class AuthConfigException extends RuntimeException {
 
